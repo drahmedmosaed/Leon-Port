@@ -415,3 +415,15 @@ margin-bottom: 0px;
 .contact .contact-content h2 {
     color: blue;
 }
+
+.footer {
+    background-color: black;
+    color: white;
+    padding: 30px 10px;
+    text-align: center;
+    font-size: 18px;
+}
+.footer span {
+    font-weight: bold;
+    color: var(--main-color);
+}
